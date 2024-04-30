@@ -1,0 +1,4 @@
+22:30:34.280 [main] DEBUG Test.LogInTest - Broswer initialized
+22:30:35.360 [main] DEBUG Test.LogInTest - Website launched
+22:30:35.607 [main] DEBUG Test.LogInTest - Clicked on packages in nav bar
+22:30:47.811 [main] DEBUG Test.LogInTest - Website closed

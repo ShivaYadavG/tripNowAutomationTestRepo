@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--  Normal execution -->
+<suite name="Suite">
+	<listeners>
+		<listener class-name="listeners.Listeners" />
+	</listeners>
+	<test name="Test">
+		<classes>
+			
+			<class name="Test.LogInTest"></class>
+			
+			<class name="Test.LogOutTest"></class>
+			
+		</classes>
+	</test>
+</suite>
+
+
+<!-- Paralel execution-->
+
+<!--  
+<suite name="Suite" parallel="tests" thread-count="10">
+    <listeners>
+        <listener class-name="listeners.Listeners" />
+    </listeners>
+    <test name="pacakagesPageTest">
+        <classes>
+            <class name="Test.pacakagesPage"></class>
+        </classes>
+    </test>
+    <test name="LogInTest">
+        <classes>
+            <class name="Test.LogInTest"></class>
+        </classes>
+    </test>
+    <test name="ContactDetailsFormTest"> 
+        <classes>
+            <class name="Test.ContactDetailsFormTest"></class>
+        </classes>
+    </test>
+    <test name="ValidationsTest">
+        <classes>
+            <class name="Test.ValidationsTest"></class> 
+        </classes>
+    </test>
+    <test name="LogOutTest">
+        <classes>
+            <class name="Test.LogOutTest"></class>
+        </classes>
+    </test>
+    <test name="ContactUsPageTest">
+        <classes>
+            <class name="Test.ContactUsPageTest"></class>
+        </classes>
+    </test>
+    <test name="ContactUsFormValidationsTest">
+        <classes>
+            <class name="Test.ContactUsFormValidationsTest"></class>
+        </classes>
+    </test>
+    <test name="ExclusivePageTest">
+        <classes>
+            <class name="Test.ExclusivePageTest"></class>
+        </classes>
+    </test>
+       <test name="ReviewPageTest">
+        <classes>
+            <class name="Test.ReviewPageTest"></class>
+        </classes>
+    </test>
+</suite>
+-->
+
+
+
+
+ 

@@ -1,0 +1,39 @@
+10:11:27.543 [main] DEBUG Test.ValiationsTest - clicked on the packages card
+10:11:27.789 [main] DEBUG Test.ValiationsTest - clicked on the reserve button
+10:11:27.876 [main] DEBUG Test.ValiationsTest - Invalid password entered
+10:11:31.222 [main] DEBUG Test.ValiationsTest - Website closed
+10:11:31.938 [main] DEBUG Test.ValiationsTest - Broswer initialized
+10:11:33.086 [main] DEBUG Test.ValiationsTest - Website launched
+10:11:33.255 [main] DEBUG Test.ValiationsTest - Clicked on packages in nav bar
+10:11:35.399 [main] DEBUG Test.ValiationsTest - clicked on the packages card
+10:11:35.644 [main] DEBUG Test.ValiationsTest - clicked on the reserve button
+10:11:40.523 [main] DEBUG Test.ValiationsTest - Invalid first name entered
+10:11:43.998 [main] DEBUG Test.ValiationsTest - Website closed
+10:11:45.141 [main] DEBUG Test.ValiationsTest - Broswer initialized
+10:11:46.645 [main] DEBUG Test.ValiationsTest - Website launched
+10:11:46.883 [main] DEBUG Test.ValiationsTest - Clicked on packages in nav bar
+10:11:49.010 [main] DEBUG Test.ValiationsTest - clicked on the packages card
+10:11:49.267 [main] DEBUG Test.ValiationsTest - clicked on the reserve button
+10:11:54.742 [main] DEBUG Test.ValiationsTest - Invalid first name entered
+10:11:58.089 [main] DEBUG Test.ValiationsTest - Website closed
+10:11:58.931 [main] DEBUG Test.ValiationsTest - Broswer initialized
+10:11:59.917 [main] DEBUG Test.ValiationsTest - Website launched
+10:12:00.143 [main] DEBUG Test.ValiationsTest - Clicked on packages in nav bar
+10:12:02.227 [main] DEBUG Test.ValiationsTest - clicked on the packages card
+10:12:02.495 [main] DEBUG Test.ValiationsTest - clicked on the reserve button
+10:12:07.489 [main] DEBUG Test.ValiationsTest - Invalid first name entered
+10:12:10.890 [main] DEBUG Test.ValiationsTest - Website closed
+10:12:11.734 [main] DEBUG Test.ValiationsTest - Broswer initialized
+10:12:12.742 [main] DEBUG Test.ValiationsTest - Website launched
+10:12:12.925 [main] DEBUG Test.ValiationsTest - Clicked on packages in nav bar
+10:12:15.041 [main] DEBUG Test.ValiationsTest - clicked on the packages card
+10:12:15.387 [main] DEBUG Test.ValiationsTest - clicked on the reserve button
+10:12:20.072 [main] DEBUG Test.ValiationsTest - Invalid first name entered
+10:12:23.393 [main] DEBUG Test.ValiationsTest - Website closed
+10:12:24.285 [main] DEBUG Test.ValiationsTest - Broswer initialized
+10:12:25.591 [main] DEBUG Test.ValiationsTest - Website launched
+10:12:25.738 [main] DEBUG Test.ValiationsTest - Clicked on packages in nav bar
+10:12:27.886 [main] DEBUG Test.ValiationsTest - clicked on the packages card
+10:12:28.184 [main] DEBUG Test.ValiationsTest - clicked on the reserve button
+10:12:33.086 [main] DEBUG Test.ValiationsTest - Invalid first name entered
+10:12:36.451 [main] DEBUG Test.ValiationsTest - Website closed

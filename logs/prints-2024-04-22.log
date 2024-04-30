@@ -1,0 +1,105 @@
+20:49:43.936 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+20:49:43.963 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+20:49:43.968 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+20:49:43.974 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+20:49:43.976 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Website launched
+20:49:43.986 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+20:49:43.995 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+20:49:44.004 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+20:49:44.026 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+20:49:44.097 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+20:49:44.108 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+20:49:44.125 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+20:49:44.131 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+20:49:44.141 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+20:49:44.151 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+20:49:44.160 [TestNG-tests-1] DEBUG Test.pacakagesPage - Website launched
+20:49:44.160 [TestNG-tests-9] DEBUG Test.ReviewPageTest - Website launched
+20:49:44.163 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+20:49:44.182 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+20:49:44.193 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+20:49:44.239 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+20:49:44.243 [TestNG-tests-3] DEBUG Test.ContactDetailsFormTest - Clicked on packages in nav bar
+20:49:44.251 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+20:49:44.266 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+20:49:44.295 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+20:49:44.321 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+20:49:44.330 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+20:49:44.353 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+20:49:44.368 [TestNG-tests-6] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+20:49:44.563 [TestNG-tests-5] DEBUG Test.LogOutTest - Clicked on packages in nav bar
+20:49:44.612 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:49:44.688 [TestNG-tests-1] DEBUG Test.pacakagesPage - Clicked on packages in nav bar
+20:49:46.111 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Clikced on the contact us button
+20:49:46.448 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Entered invalid name in contact us name box
+20:49:47.286 [TestNG-tests-9] DEBUG Test.ReviewPageTest - Clicked on Review page in nav bar
+20:49:47.493 [TestNG-tests-6] DEBUG Test.ContactUsPageTest - Clikced on the contact us button
+20:49:47.593 [TestNG-tests-6] DEBUG Test.ContactUsPageTest - Entered name in contact us name box :Userone
+20:49:47.755 [TestNG-tests-6] DEBUG Test.ContactUsPageTest - Entered email in contact us email box :userone@gmail.com
+20:49:47.849 [TestNG-tests-6] DEBUG Test.ContactUsPageTest - Entered phone number in contact us email box :6362361030
+20:49:47.926 [TestNG-tests-6] DEBUG Test.ContactUsPageTest - Entered query in the contact us query box
+20:49:49.773 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Website closed
+20:49:49.797 [TestNG-tests-9] DEBUG Test.ReviewPageTest - Website closed
+20:49:50.728 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Broswer initialized
+20:49:51.028 [TestNG-tests-6] DEBUG Test.ContactUsPageTest - Clikced on the submit button in contact us form
+20:49:51.919 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Website launched
+20:49:54.069 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Clikced on the contact us button
+20:49:56.216 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Entered invalid name in contact us name box
+20:49:57.806 [TestNG-tests-6] DEBUG Test.ContactUsPageTest - Website closed
+20:49:57.994 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+20:49:58.324 [TestNG-tests-8] DEBUG Test.ExclusivePageTest - Website closed
+20:49:58.542 [TestNG-tests-3] DEBUG Test.ContactDetailsFormTest - Website closed
+20:49:58.542 [TestNG-tests-2] DEBUG Test.LogInTest - Website closed
+20:49:59.143 [TestNG-tests-4] DEBUG Test.ValidationsTest - Broswer initialized
+20:49:59.317 [TestNG-tests-5] DEBUG Test.LogOutTest - Website closed
+20:49:59.335 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Website closed
+20:49:59.613 [TestNG-tests-1] DEBUG Test.pacakagesPage - Website closed
+20:50:00.518 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website launched
+20:50:00.538 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Broswer initialized
+20:50:00.777 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:50:01.626 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Website launched
+20:50:03.694 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Clikced on the contact us button
+20:50:05.777 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Entered invalid name in contact us name box
+20:50:07.096 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Website closed
+20:50:07.975 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Broswer initialized
+20:50:09.321 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Website launched
+20:50:11.383 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Clikced on the contact us button
+20:50:13.289 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+20:50:13.394 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Clicked on the contact us form close button
+20:50:13.966 [TestNG-tests-4] DEBUG Test.ValidationsTest - Broswer initialized
+20:50:15.041 [TestNG-tests-7] DEBUG Test.ContactUsFormValidationsTest - Website closed
+20:50:15.091 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website launched
+20:50:15.305 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:50:27.998 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+20:50:28.737 [TestNG-tests-4] DEBUG Test.ValidationsTest - Broswer initialized
+20:50:29.721 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website launched
+20:50:29.907 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:50:42.570 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+20:50:43.557 [TestNG-tests-4] DEBUG Test.ValidationsTest - Broswer initialized
+20:50:44.914 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website launched
+20:50:45.079 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:50:57.617 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+20:50:58.452 [TestNG-tests-4] DEBUG Test.ValidationsTest - Broswer initialized
+20:50:58.494 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website launched
+20:50:59.851 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:51:12.551 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+20:51:13.444 [TestNG-tests-4] DEBUG Test.ValidationsTest - Broswer initialized
+20:51:14.717 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website launched
+20:51:14.945 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:51:27.676 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+20:51:28.609 [TestNG-tests-4] DEBUG Test.ValidationsTest - Broswer initialized
+20:51:29.814 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website launched
+20:51:30.114 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:51:42.764 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+20:51:43.702 [TestNG-tests-4] DEBUG Test.ValidationsTest - Broswer initialized
+20:51:44.804 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website launched
+20:51:45.031 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:51:57.573 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+20:51:58.501 [TestNG-tests-4] DEBUG Test.ValidationsTest - Broswer initialized
+20:51:59.915 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website launched
+20:52:00.157 [TestNG-tests-4] DEBUG Test.ValidationsTest - Clicked on packages in nav bar
+20:52:12.769 [TestNG-tests-4] DEBUG Test.ValidationsTest - Website closed
+22:16:25.527 [main] DEBUG Test.LogInTest - Broswer initialized
+22:16:27.187 [main] DEBUG Test.LogInTest - Website launched
+22:16:27.447 [main] DEBUG Test.LogInTest - Clicked on packages in nav bar
+22:16:39.705 [main] DEBUG Test.LogInTest - Website closed

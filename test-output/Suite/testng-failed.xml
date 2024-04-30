@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listeners.Listeners"/>
+  </listeners>
+  <test parallel="tests" name="ExclusivePageTest(failed)">
+    <classes>
+      <class name="Test.ExclusivePageTest">
+        <methods>
+          <include name="ExclusivePageTest"/>
+          <include name="launching"/>
+          <include name="closure"/>
+        </methods>
+      </class> <!-- Test.ExclusivePageTest -->
+    </classes>
+  </test> <!-- ExclusivePageTest(failed) -->
+  <test parallel="tests" name="ContactDetailsFormTest(failed)">
+    <classes>
+      <class name="Test.ContactDetailsFormTest">
+        <methods>
+          <include name="ContactDetailsForm"/>
+          <include name="launching"/>
+          <include name="closure"/>
+        </methods>
+      </class> <!-- Test.ContactDetailsFormTest -->
+    </classes>
+  </test> <!-- ContactDetailsFormTest(failed) -->
+  <test parallel="tests" name="LogInTest(failed)">
+    <classes>
+      <class name="Test.LogInTest">
+        <methods>
+          <include name="launching"/>
+          <include name="closure"/>
+          <include name="LogInTest"/>
+        </methods>
+      </class> <!-- Test.LogInTest -->
+    </classes>
+  </test> <!-- LogInTest(failed) -->
+  <test parallel="tests" name="LogOutTest(failed)">
+    <classes>
+      <class name="Test.LogOutTest">
+        <methods>
+          <include name="closure"/>
+          <include name="launching"/>
+          <include name="logOutTest"/>
+        </methods>
+      </class> <!-- Test.LogOutTest -->
+    </classes>
+  </test> <!-- LogOutTest(failed) -->
+  <test parallel="tests" name="pacakagesPageTest(failed)">
+    <classes>
+      <class name="Test.pacakagesPage">
+        <methods>
+          <include name="launching"/>
+          <include name="closure"/>
+          <include name="pacakagesPage"/>
+        </methods>
+      </class> <!-- Test.pacakagesPage -->
+    </classes>
+  </test> <!-- pacakagesPageTest(failed) -->
+  <test parallel="tests" name="ValidationsTest(failed)">
+    <classes>
+      <class name="Test.ValidationsTest">
+        <methods>
+          <include name="packagesSearchBoxinValidValueValidation"/>
+          <include name="closure"/>
+          <include name="ageAboveLimitValidation"/>
+          <include name="passwordValidation"/>
+          <include name="emailValidation"/>
+          <include name="lastNameValidation"/>
+          <include name="logInemailValidation"/>
+          <include name="ageBelowLimitValidation"/>
+          <include name="firstNameValidation"/>
+          <include name="launching"/>
+          <include name="phoneNumberValidation"/>
+          <include name="packagesSearchBoxValidation"/>
+        </methods>
+      </class> <!-- Test.ValidationsTest -->
+    </classes>
+  </test> <!-- ValidationsTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,95 @@
+21:27:52.390 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+21:27:52.398 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+21:27:52.401 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+21:27:52.404 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+21:27:52.405 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+21:27:52.409 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+21:27:52.413 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+21:27:52.423 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+21:27:52.441 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+21:27:52.445 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+21:27:52.450 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+21:27:52.452 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+21:27:52.453 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+21:27:52.455 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+21:27:52.459 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+21:27:52.467 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+21:27:52.470 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+21:27:52.484 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+21:27:52.486 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+21:27:52.491 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+21:27:52.497 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+21:27:52.502 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+21:27:52.504 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+21:27:52.509 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+21:27:52.512 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+21:27:52.619 [main] DEBUG Test.LogInTest - Email entered: user2@gmail.com
+21:27:52.748 [main] DEBUG Test.LogInTest - Password entered: dummyPass2
+21:27:55.879 [main] DEBUG Test.LogInTest - Clicked on the Sign in button
+21:28:02.934 [main] DEBUG Test.LogInTest - Log in is unsuccesfull with user2@gmail.com dummyPass2
+21:28:03.184 [main] DEBUG Test.LogInTest - Email entered: user3@gmail.com
+21:28:03.335 [main] DEBUG Test.LogInTest - Password entered: dummyPass3
+21:28:06.406 [main] DEBUG Test.LogInTest - Clicked on the Sign in button
+21:28:13.454 [main] DEBUG Test.LogInTest - Log in is unsuccesfull with user3@gmail.com dummyPass3
+21:28:13.569 [main] DEBUG Test.LogInTest - Email entered: userone@gmail.com
+21:28:13.669 [main] DEBUG Test.LogInTest - Password entered: userone@
+21:28:16.733 [main] DEBUG Test.LogInTest - Clicked on the Sign in button
+21:28:23.787 [main] DEBUG Test.LogInTest - Log in is unsuccesfull with userone@gmail.com userone@
+21:28:24.131 [main] DEBUG Test.LogInTest - Website closed
+21:28:30.275 [main] DEBUG Test.ContactDetailsForm - Broswer initialized
+21:28:31.325 [main] DEBUG Test.ContactDetailsForm - Website launched
+21:28:31.525 [main] DEBUG Test.ContactDetailsForm - Clicked on packages in nav bar
+21:28:33.644 [main] DEBUG Test.ContactDetailsForm - clicked on the packages card
+21:28:33.858 [main] DEBUG Test.ContactDetailsForm - clicked on the reserve button
+21:28:33.874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:28:33.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:28:33.876 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:28:34.069 [main] DEBUG Test.ContactDetailsForm - Email entered: user2@gmail.com
+21:28:34.190 [main] DEBUG Test.ContactDetailsForm - Password entered: dummyPass2
+21:28:37.263 [main] DEBUG Test.ContactDetailsForm - Clicked on the Sign in button
+21:28:37.263 [main] DEBUG Test.ContactDetailsForm - Testing contact details page
+21:28:40.271 [main] DEBUG Test.ContactDetailsForm - Log in is unsuccesfull with user2@gmail.com dummyPass2
+21:28:40.466 [main] DEBUG Test.ContactDetailsForm - Email entered: user3@gmail.com
+21:28:40.664 [main] DEBUG Test.ContactDetailsForm - Password entered: dummyPass3
+21:28:43.713 [main] DEBUG Test.ContactDetailsForm - Clicked on the Sign in button
+21:28:43.713 [main] DEBUG Test.ContactDetailsForm - Testing contact details page
+21:28:46.734 [main] DEBUG Test.ContactDetailsForm - Log in is unsuccesfull with user3@gmail.com dummyPass3
+21:28:46.864 [main] DEBUG Test.ContactDetailsForm - Email entered: userone@gmail.com
+21:28:46.990 [main] DEBUG Test.ContactDetailsForm - Password entered: userone@
+21:28:50.058 [main] DEBUG Test.ContactDetailsForm - Clicked on the Sign in button
+21:28:50.058 [main] DEBUG Test.ContactDetailsForm - Testing contact details page
+21:28:53.066 [main] DEBUG Test.ContactDetailsForm - Log in is succesfull with :userone@gmail.com userone@
+21:28:53.197 [main] DEBUG Test.ContactDetailsForm - First name enterd: Userone
+21:28:53.277 [main] DEBUG Test.ContactDetailsForm - Last name enterd: UserOne
+21:28:53.394 [main] DEBUG Test.ContactDetailsForm - Email entered: userone@gmail.com
+21:28:56.529 [main] DEBUG Test.ContactDetailsForm - Phone numbered enterd: 6362361030
+21:28:59.649 [main] DEBUG Test.ContactDetailsForm - Phone numbered enterd: 21
+21:29:02.774 [main] DEBUG Test.ContactDetailsForm - Promo code is entered
+21:29:08.119 [main] DEBUG Test.ContactDetailsForm - Clicked on the next button
+21:29:13.485 [main] DEBUG Test.ContactDetailsForm - Website closed
+21:31:16.760 [main] DEBUG Test.ContactDetailsForm - Broswer initialized
+21:31:16.821 [main] DEBUG Test.ContactDetailsForm - Website launched
+21:31:19.042 [main] DEBUG Test.ContactDetailsForm - Clicked on packages in nav bar
+21:31:21.239 [main] DEBUG Test.ContactDetailsForm - clicked on the packages card
+21:31:21.548 [main] DEBUG Test.ContactDetailsForm - clicked on the reserve button
+21:31:21.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:31:21.918 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:31:21.965 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:31:22.471 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:31:22.486 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:31:22.486 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:31:22.486 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:31:22.486 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:31:22.486 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:31:22.518 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:31:22.530 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:31:22.551 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:31:22.551 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:31:22.551 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:31:22.551 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:31:22.551 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:31:22.565 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+21:31:22.723 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:31:22.723 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+21:31:22.899 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+21:31:22.914 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
