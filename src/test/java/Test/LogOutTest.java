@@ -32,7 +32,8 @@ public class LogOutTest extends Base {
 		LogInPage LogInPage = new LogInPage(driver);
 		LogOutPage LogOutPage = new LogOutPage(driver);
 
-		System.out.prinln("Updating log out class directly from the git hub");
+		System.out.println("Updating log out class directly from the git hub");
+		System.out.println("Changes made in the log out class to push in to git hub");
 		
 		// clicking on the packages link in nav bar
 		LandingPage landingPage = new LandingPage(driver);
