@@ -36,6 +36,7 @@ public class LogInTest extends Base {
 	public void LogInTest() throws InterruptedException, EncryptedDocumentException, IOException {
 		
 		System.out.println("Pushing this line to git hub");
+		System.out.println("Updated this line directly from git hub");
 		
 		// clicking on the packages link in nav bar
 		LandingPage landingPage = new LandingPage(driver);
