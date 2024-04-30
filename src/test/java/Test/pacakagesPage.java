@@ -23,6 +23,8 @@ public class pacakagesPage extends Base {
 	@Test
 	public void pacakagesPage() throws InterruptedException {
 
+		System.out.println("Adding this to newOneTripNowBranch and merging with the main branch");	
+		
 		// clicking on the packages link in nav bar
 		LandingPage landingPage = new LandingPage(driver);
 		landingPage.packages().click();
